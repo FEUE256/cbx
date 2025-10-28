@@ -30,7 +30,7 @@ namespace cbx
         {
             Console.Title = "cbx :: Cyber:Boot Executor Console";
             Console.WriteLine("cbx :: Cyber:Boot Executor v1.2");
-            Console.WriteLine("© 2025 FÈUE / Prof. Nils Efverman");
+            Console.WriteLine("© 2025 FÈUE / Nils Efverman");
             Console.WriteLine("Type 'nhelp' for internal command reference.\n");
 
             while (true)
