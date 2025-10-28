@@ -68,7 +68,7 @@ namespace cbx
                     break;
 
                 case "ver":
-                    Console.WriteLine("cbx version 1.2 (.NET 9, Windows x64 build)");
+                    Console.WriteLine("cbx version 1.2 (.NET 9, Windows x64 build with GH Repo)");
                     break;
 
                 case "clr":
